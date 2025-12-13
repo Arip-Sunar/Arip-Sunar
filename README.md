@@ -12,7 +12,7 @@ Hey Lerner, I'm **Arip Sunar** 👋
 **Engineer full of curiosity**
 A passionate developer, coder, and inventor.
 
-- - 🤖 **AI & ML Learner:** Exploring intelligent systems, data-driven models, and the foundations of machine learning.
+- 🤖 **AI & ML Learner:** Exploring intelligent systems, data-driven models, and the foundations of machine learning.
 - 📱 **App Developer:** Building practical, user-focused mobile applications with clean design and efficient logic.
 - 🎮 **Game Developer:** Creating interactive games that blend creativity, logic, and engaging gameplay.
 - 🦾 **Robotics Engineer:** Designing and experimenting with hardware, sensors, and automation systems.
