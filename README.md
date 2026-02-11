@@ -57,14 +57,17 @@ A passionate developer, coder, and inventor.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arip-Sunar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<h3 align="center">🙏 Thank You for Visiting My GitHub Profile! 🚀</h3>
+
 <p align="center">
-  🙏 <b>Thank You for Visiting My GitHub Account!</b> 🚀
+  I’m passionate about building creative projects, solving problems,  
+  and exploring the world of development.
 </p>
 
 <p align="center">
-  If you enjoyed my work, feel free to connect, star ⭐, or follow  
-  for more exciting projects, creative code, and open-source magic!
+  ⭐ If you like my work, consider giving a star to my repositories <br>
+  🤝 Feel free to connect and collaborate <br>
+  🔔 Follow me for more exciting projects and open-source contributions!
 </p>
-
 
 
