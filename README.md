@@ -51,6 +51,22 @@ A passionate developer, coder, and inventor.
 </p>
 
 ---
+## Github stat card
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arip-Sunar&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arip-Sunar&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arip-Sunar&theme=tokyo-night&hide_border=true" />
+</p>
+
+
 ## 🏆 Most Used Languages
 
 <p align="center">
