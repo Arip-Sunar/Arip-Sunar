@@ -51,10 +51,7 @@ A passionate developer, coder, and inventor.
 </p>
 
 ---
-## Github stat card
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arip-Sunar&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ## 🔥 GitHub Streak
 <p align="center">
@@ -70,9 +67,9 @@ A passionate developer, coder, and inventor.
 ## 🏆 Most Used Languages
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arip-Sunar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arip-Sunar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 <h3 align="center">🙏 Thank You for Visiting My GitHub Profile! 🚀</h3>
 
